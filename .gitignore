@@ -1,0 +1,18 @@
+# Frontend
+event-booking-frontend/node_modules/
+event-booking-frontend/dist/
+
+# Backend
+event_booking_backend/target/
+
+# IntelliJ
+.idea/
+*.iml
+
+# Environment / secrets
+.env
+*.env
+
+# OS
+.DS_Store
+Thumbs.db
